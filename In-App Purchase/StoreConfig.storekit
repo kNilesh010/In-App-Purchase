@@ -1,0 +1,63 @@
+{
+  "identifier" : "9244B988",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "199",
+      "familyShareable" : false,
+      "internalID" : "8F0C2DCA",
+      "localizations" : [
+        {
+          "description" : "This will remove ads from app",
+          "displayName" : "Remove Ads",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.myApp.removeAds",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "299",
+      "familyShareable" : false,
+      "internalID" : "0AD59CA8",
+      "localizations" : [
+        {
+          "description" : "This will access to all the products",
+          "displayName" : "Show All Products",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.myApp.showAllProducts",
+      "referenceName" : "Show All Products",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "68E1CAC8",
+      "localizations" : [
+        {
+          "description" : "This will allow to purchase gems",
+          "displayName" : "Buy gems",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.myApp.buyGems",
+      "referenceName" : "Buy Gems",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
